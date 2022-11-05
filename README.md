@@ -5,7 +5,7 @@
 
 - 💬 I have basic knowledge of **JavaScript, PHP, C#, CSS and Html**
 
-- 📄 You can check out my[LinkedIn page](https://www.linkedin.com/in/habibe-vuranoğlu-270b74171/)
+- 📄 You can check out my [LinkedIn page](https://www.linkedin.com/in/habibe-vuranoğlu-270b74171/)
 
 - 📫 Don't hesitate to touch with me on **habibe.v720@gmail.com**
 <br><br><br>
