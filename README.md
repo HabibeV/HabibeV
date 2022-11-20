@@ -7,7 +7,7 @@
 
 - 📄 You can check out my [LinkedIn page](https://www.linkedin.com/in/habibe-vuranoğlu-270b74171/)
 
-- 📫 Don't hesitate to touch with me on **habibe.v720@gmail.com**
+- 📫 You can contact me at **habibe.v720@gmail.com**
 <br><br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
