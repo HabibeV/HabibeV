@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Habibe Vuranoğlu!</h1>
 <h3 align="center">Computer programming fresh graduate</h3><br>
 
-- 🔭I am currently a **php software bootcamp** student
 
 - 💬 I have basic knowledge of **JavaScript, PHP, C#, CSS and Html**
 
