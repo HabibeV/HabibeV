@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Habibe Vuranoğlu!</h1>
+<h1 align="center">Hi 👋, I'm Habibe Vuranoglu!</h1>
 <h3 align="center">Computer programming fresh graduate</h3><br>
 
 
